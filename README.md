@@ -50,14 +50,8 @@ A simple and intuitive web-based file explorer built using Python and Flask. Thi
    http://localhost:5000
    ```
 
-## Screenshots
-
-*(Optionally include screenshots here to showcase your application.)*
 
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
